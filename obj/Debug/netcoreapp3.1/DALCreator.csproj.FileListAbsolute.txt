@@ -1,0 +1,15 @@
+G:\Disk_Pro\GitHub\DALCreator\bin\Debug\netcoreapp3.1\DALCreator.exe
+G:\Disk_Pro\GitHub\DALCreator\bin\Debug\netcoreapp3.1\DALCreator.deps.json
+G:\Disk_Pro\GitHub\DALCreator\bin\Debug\netcoreapp3.1\DALCreator.runtimeconfig.json
+G:\Disk_Pro\GitHub\DALCreator\bin\Debug\netcoreapp3.1\DALCreator.runtimeconfig.dev.json
+G:\Disk_Pro\GitHub\DALCreator\bin\Debug\netcoreapp3.1\DALCreator.dll
+G:\Disk_Pro\GitHub\DALCreator\bin\Debug\netcoreapp3.1\DALCreator.pdb
+G:\Disk_Pro\GitHub\DALCreator\obj\Debug\netcoreapp3.1\DALCreator.csprojAssemblyReference.cache
+G:\Disk_Pro\GitHub\DALCreator\obj\Debug\netcoreapp3.1\DALCreator.Form1.resources
+G:\Disk_Pro\GitHub\DALCreator\obj\Debug\netcoreapp3.1\DALCreator.csproj.GenerateResource.cache
+G:\Disk_Pro\GitHub\DALCreator\obj\Debug\netcoreapp3.1\DALCreator.AssemblyInfoInputs.cache
+G:\Disk_Pro\GitHub\DALCreator\obj\Debug\netcoreapp3.1\DALCreator.AssemblyInfo.cs
+G:\Disk_Pro\GitHub\DALCreator\obj\Debug\netcoreapp3.1\DALCreator.csproj.CoreCompileInputs.cache
+G:\Disk_Pro\GitHub\DALCreator\obj\Debug\netcoreapp3.1\DALCreator.dll
+G:\Disk_Pro\GitHub\DALCreator\obj\Debug\netcoreapp3.1\DALCreator.pdb
+G:\Disk_Pro\GitHub\DALCreator\obj\Debug\netcoreapp3.1\DALCreator.genruntimeconfig.cache
